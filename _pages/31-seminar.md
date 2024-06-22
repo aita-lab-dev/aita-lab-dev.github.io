@@ -1,15 +1,15 @@
 ---
 layout: page
-title: NS-CUK Weekly Seminar
+title: AiTA Weekly Seminar
 permalink: /seminar/
-image: CUK_4Seasons.jpg
-description: Archive of papers reviewed by members of the Network Science Lab at the Catholic University of Korea as part of the NS-CUK Weekly Seminar series
+image: 
+description: Archive of papers reviewed by members of the AI Technology and Application Research Lab at the FPT University (AiTA Lab@FPTU) as part of the AiTA Weekly Seminar series
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-<!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4) -->
+<!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4)
 
 
 
@@ -1526,4 +1526,4 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Autoencoder and Machine Learning basics"</summary>
 </details>
-
+ -->

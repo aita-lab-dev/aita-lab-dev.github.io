@@ -13,7 +13,7 @@ description: Archive of events, memories and achievements of the Network Science
 ***
 ### 2024
 
-***
+<!-- ***
 ##### Jul 17th, 2024 -- Jul 31st, 2024
 {:.no_toc}
 
@@ -744,6 +744,6 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
-
+ -->
 
 
