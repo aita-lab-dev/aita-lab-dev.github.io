@@ -29,10 +29,10 @@ include:
 
 # Atom Feed
 author:
-  name: NS Lab@CUK
+  name: AiTA@FPTU
 
 logo: /images/Logo_Wide.png
-email: nslab.ai.cuk@gmail.com
+email: aita.fptu@gmail.com
 
 feed:
   path: atom.xml
@@ -46,7 +46,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-analytics:
-  provider: google
-  google:
-    tracking_id: G-1MH93MRZ7X
+# analytics:
+#   provider: google
+#   google:
+#     tracking_id: G-1MH93MRZ7X
