@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nslab-cuk.github.io/sitemap.xml
+Sitemap: https://aita-lab.github.io/sitemap.xml

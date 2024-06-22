@@ -71,9 +71,9 @@ Recommended skills for the applicants are as follows;
 ***
 ### E-mail Addresses
 
-* [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com)
-* [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
-* [![E-mail](https://img.shields.io/badge/Lab%20Rep-choimin1231@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:choimin1231@gmail.com)
+* [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com)
+<!-- * [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
+* [![E-mail](https://img.shields.io/badge/Lab%20Rep-choimin1231@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:choimin1231@gmail.com) -->
 
 ***
 ### Phone

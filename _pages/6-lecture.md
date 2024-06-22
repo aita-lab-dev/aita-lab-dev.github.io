@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lecture
+title: Lectures
 permalink: /lecture/
-image: CUK_4Seasons.jpg
+image: 
 description: Regular (or special) lectures led or managed by the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 toc: true
 toc_sticky: true
