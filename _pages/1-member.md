@@ -2,8 +2,8 @@
 layout: page
 title: Member
 permalink: /member/
-image: 220908_2.jpg
-description: Members, alumni and collaborators of the Network Science Lab at the Catholic University of Korea
+image: 
+description: Members, alumni and collaborators of the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 ---
 
 
@@ -11,22 +11,24 @@ description: Members, alumni and collaborators of the Network Science Lab at the
 # Director
 ***
 
-#### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
+#### Dr. [Duc Ngoc Minh Dang](https://nslab-cuk.github.io/member/ojlee)
 
 <img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
 
-O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea since September 2021. He received Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
+Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2005 and 2007, respectively. In 2014, he received a Ph.D. degree in Computer Engineering at Kyung Hee University, Korea. From 2005 to 2008, he was a Senior Telecom Engineer with TMA Solutions, Vietnam. From 2008 to 2022, he worked as the Head of the Electronics and Telecommunications Department and Vice Dean of the School of Graduate Studies at Ton Duc Thang University, Vietnam. Since 2022, he has worked as a Lecturer and Researcher at FPT University in Ho Chi Minh City, Vietnam. His research interests include the MAC protocols in Wireless Ad hoc Networks, Vehicular Ad hoc Networks, Deep Learning, and the Internet of Things.
 
-<!--
-* Jan 2023 -- Present: [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci) 상임이사
-* Mar 2022 -- Present: Adjunct Professor, [Dept. of Mathematics](https://math.catholic.ac.kr/math.eng/), CUK
-* Mar 2022 -- Present: Head/Assistant Professor, [Dept. of AI, The Graduate School](https://cukadmin.catholic.ac.kr/cukai.eng/D_141_6080.html), CUK
-* Sep 2021 -- Present: Adjunct Professor, [Dept. of Data Science](https://cukadmin.catholic.ac.kr/datascience.eng/index.html), CUK
-* Sep 2021 -- Present: Adjunct Professor, [Dept. of Healthcare and AI, The Graduate School](https://cukmai.catholic.ac.kr/cukmai/index.html), CUK
- -->
-* Sep 2021 -- Present: Assistant Professor, [Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), CUK
+* 2022 -- Present: Lecturer - Researcher, FPT University, Vietnam
+* 2017 -- 2022: Vice Dean, School of Graduate Studies, Ton Duc Thang University, Vietnam
+* 2015 -- 2017: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
+* 2011 -- 2014: Research assistant and Post-doc researcher at Department of Computer Engineering, Kyung Hee University, Korea
+* 2008 -- 2011: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
+* 2008 -- 2011: Head of Laboratory, Faculty of Electrical and Electronics Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam 
+* 2005 -- 2008: Senior Telecom Engineer -Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
+
+
+<!-- * Sep 2021 -- Present: Assistant Professor, [Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), CUK
 * Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, POSTECH
-* <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a> -->
 
 <!--
 * Mar 2022 -- Present: Head/Assistant Professor, [Dept. of Artificial Intelligence, The Graduate School](https://cukadmin.catholic.ac.kr/cukai.eng/D_141_6080.html), The Catholic University of Korea, Bucheon, Korea
@@ -37,7 +39,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
  -->
 
 ***
-# Post-Doctoral Researchers
+<!-- # Post-Doctoral Researchers
 ***
 
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
@@ -50,7 +52,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 			<li><a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
-</table>
+</table> -->
 
 <!--
 <img align="left" src="/images/ESYou.jpg" style="width : 180px; height : 240px; margin : 10px">
@@ -62,7 +64,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 # Researchers
 ***
 
-#### Ph.D. Course
+<!-- #### Ph.D. Course
 
 ###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
 
@@ -173,7 +175,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li><a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
-</table>
+</table> -->
 
 
 ***
@@ -267,13 +269,13 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 -->
 
-###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Present)
+###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Dec 2022)
 
-<table border="0">  
+<!-- <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/mskim2.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
 		<td><ul>
-			<li>Mar 2019 -- Present: School of Information, Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li>Research Interest: Recommendation Systems</li>
 			<li><a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 			<li><a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
@@ -283,7 +285,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Hye Min Kim](https://nslab-cuk.github.io/member/hmKim) (Jul 2023 -- Present)
+<!-- ###### [Hye Min Kim](https://nslab-cuk.github.io/member/hmKim) (Jul 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -322,7 +324,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 			<li><a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
-</table>
+</table> -->
 
 <!-- 
 ###### [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
@@ -362,26 +364,30 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 #### B.Eng.
 
-###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
+###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Dec 2022)
 
-<table border="0">  
+<!-- <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
 		<td><ul>
-			<li>Mar 2023 -- Present: M.Eng. Course, Dept. of Artificial Intelligence, Hanyang University, Seoul, Korea</li>
-			<li>Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
+				
 			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
-</table>
+</table> -->
 
 
 ***
 # Collaborators
 ***
 
-* [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
+
+* Dr. Anh-Khoa Tran
+* Dr. Tuan Cuong Nguyen
+
+<!-- * [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
 * Prof. Hoon Ko, Sunmoon University, Asan, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
@@ -403,7 +409,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Dr. Khac-Hoai Nam Bui, Viettel Cyberspace Center, Viettel, Hanoi, Vietnam
 * Dr. [Gen Li](https://scholar.google.com/citations?hl=en&user=euEki6wAAAAJ&view_op=list_works), Chengdu University, Chengdu, China
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
-* Kangsan Kim, [Braincolla Inc.](https://braincolla.com/), Seoul, Korea
+* Kangsan Kim, [Braincolla Inc.](https://braincolla.com/), Seoul, Korea -->
 
 
 

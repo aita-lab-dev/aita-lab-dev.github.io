@@ -3,7 +3,7 @@ layout: page
 title: Publication
 permalink: /publication/
 image: Bib_Network.png
-description: Academic publications and other types of research output from the Network Science Lab at the Catholic University of Korea
+description: Academic publications and other types of research output from the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
+<!-- * Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
 
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -109,7 +109,7 @@ toc_label: "Table of Contents"
 [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.future.2016.02.011" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* O-oun Lee, Min-sung Hong, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2): 179-194., DOI:10.12700/APH.13.2.2016.2.10 <span class="__dimensions_badge_embed__" data-doi="10.12700/APH.13.2.2016.2.10" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* O-oun Lee, Min-sung Hong, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2): 179-194., DOI:10.12700/APH.13.2.2016.2.10 <span class="__dimensions_badge_embed__" data-doi="10.12700/APH.13.2.2016.2.10" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> -->
 
 
 
@@ -118,7 +118,7 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
+<!-- * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
 [![Link](https://img.shields.io/badge/AAAIw'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
 
 * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. DOI:10.1609/aaai.v38i11.29138
@@ -201,7 +201,7 @@ toc_label: "Table of Contents"
 
 * Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014.
 
-* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014. 
+* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014.  -->
 
 
 
@@ -211,7 +211,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications, 11/2018: pages 60-65; Springer, Cham., ISBN: 978-3-319-98751-4, DOI:10.1007/978-3-319-98752-1_7 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-98752-1_7" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!-- * Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications, 11/2018: pages 60-65; Springer, Cham., ISBN: 978-3-319-98751-4, DOI:10.1007/978-3-319-98752-1_7 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-98752-1_7" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Quang Dieu Tran, Dosam Hwang, O.-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications, Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:10.1007/978-3-319-58967-1_6 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-58967-1_6" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
@@ -221,7 +221,7 @@ toc_label: "Table of Contents"
 
 * Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung: MBTI-based Collaborative Recommendation System: A Case Study of Webtoon Contents. Context-Aware Systems and Applications, Edited by Cong Vinh Phan, Alagar Vangalur, 04/2016: pages 101-110; Springer International Publishing., ISBN: 978-3-319-29236-6, DOI:10.1007/978-3-319-29236-6_11 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-29236-6_11" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems, Edited by Ngoc Thanh Nguyen, Bogdan Trawiński, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-15702-3_42" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems, Edited by Ngoc Thanh Nguyen, Bogdan Trawiński, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-15702-3_42" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> -->
 
 
 
@@ -231,7 +231,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint)
+<!-- * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint)
 
 * Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint)
 
@@ -241,7 +241,7 @@ toc_label: "Table of Contents"
 
 * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint)
 
-* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint)
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint) -->
 
 
 
@@ -251,11 +251,11 @@ toc_label: "Table of Contents"
 
 ***
 
-* Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. DOI:10.6084/m9.figshare.24025491.v1 (Dataset)
+<!-- * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. DOI:10.6084/m9.figshare.24025491.v1 (Dataset)
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. DOI:10.6084/m9.figshare.23994078.v1 (Dataset)
 
-* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
+* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset) -->
 
 
 
@@ -265,7 +265,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2022
+<!-- * O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2022
 
 * Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk. Ref. No: KR 1020220087796, 07/2022
 
@@ -289,7 +289,7 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: APPARATUS AND METHOD FOR HYBRID FILTERING CONTENT RECOMMENDATION USING USER PROFILE AND CONTEXT INFORMATION BASED ON PREFERENCE. Ref. No: KR1020140027866, 03/2014
 
-* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, 03/2014
+* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, 03/2014 -->
 
 
 
@@ -299,7 +299,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Dec 2023: Van Thuy Hoang, "Excellence in Research Award", The 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023), Bucheon, Korea
+<!-- * Dec 2023: Van Thuy Hoang, "Excellence in Research Award", The 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023), Bucheon, Korea
 
 <p align="center"><img width="700" src="/images/EiR2023_Hoang.webp" margin="10px"></p>
 
@@ -307,7 +307,7 @@ toc_label: "Table of Contents"
 
 * Jun 2022: Jiyoon Song, Se Eun Cho, Jooho Lee, Yeongmin Kim, Hyebin Ahn, O-Joun Lee, "[Best Paper Award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing)", The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea
 
-<p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
+<p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p> -->
 
 
 
@@ -316,7 +316,7 @@ toc_label: "Table of Contents"
 # Invited Talks
 
 ***
-
+<!-- 
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024 
 
 * O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024
@@ -341,7 +341,7 @@ toc_label: "Table of Contents"
 
 <p align="center">
   <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
-</p>
+</p> -->
 
 
 
@@ -350,7 +350,7 @@ toc_label: "Table of Contents"
 # Posters
 
 ***
-
+<!-- 
 <p align="center">
   <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
 </p>
@@ -416,4 +416,4 @@ toc_label: "Table of Contents"
 </p>
  
 <br>
- 
+  -->
