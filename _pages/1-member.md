@@ -11,7 +11,7 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 # Director
 ***
 
-#### Dr. [Duc Ngoc Minh Dang](https://aita-lab.github.io/member/01-dnmduc)
+#### Dr. [Duc Ngoc Minh Dang](https://aita-lab.github.io/member/00-dnmduc)
 
 <img align="left" src="/images/Dr_DucDang.jpg" style="width : 180px; height : 240px; margin : 10px">
 
