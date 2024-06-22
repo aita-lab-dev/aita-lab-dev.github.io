@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: AI Technology and Application Research Lab @ FPTU - HCMC
-logo: AiTA_logo.png
+logo: AiTA_logo.jpg
 #LabLogo.png
 description: Official website of the AI Technology and Application Research Lab at the FPT University (AiTA Lab@FPTU)
 author: AiTA@FPTU
@@ -29,7 +29,7 @@ author:
 # instagram: https://www.instagram.com/ns_cuk/ # Add your Instagram handle
 # #pinterest: https://pinterest.com/ # Add your Pinterest handle
 # github: https://github.com/NSLab-CUK/
-# email: mailto:nslab.ai.cuk@gmail.com
+email: mailto: aita.fptu@gmail.com
 # demopage: https://nslab.catholic.ac.kr/
 # youtube: https://www.youtube.com/channel/UCxIbebomcnCapufjTmr8-ZQ
 

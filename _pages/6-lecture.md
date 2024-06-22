@@ -3,7 +3,7 @@ layout: page
 title: Lecture
 permalink: /lecture/
 image: CUK_4Seasons.jpg
-description: Regular (or special) lectures led or managed by the Network Science Lab at the Catholic University of Korea
+description: Regular (or special) lectures led or managed by the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
@@ -17,17 +17,17 @@ toc_label: "Table of Contents"
 ### 2024
 
 ***
-#### Summer 2024
+<!-- #### Summer 2024
 {:.no_toc}
 
 * 06298-01 Living with AI ([CU12](https://www.cu12.ac.kr/el/main/main_form.acl))
   * Instructor: Eun-Soon You
 
-* [Summer School on Digital Humanities](https://nslab-cuk.github.io/2024/05/21/SS/) (Special Course)
+* [Summer School on Digital Humanities](https://aita-lab.github.io/2024/05/21/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
 
-* [Summer School on Technical Writing](https://nslab-cuk.github.io/2024/05/20/SS/) (Special Course)
+* [Summer School on Technical Writing](https://aita-lab.github.io/2024/05/20/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
 
@@ -43,7 +43,7 @@ toc_label: "Table of Contents"
 
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4)
   * Instructor: O-Joun Lee
-  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
+  * TA: [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://aita-lab.github.io/member/thanhdo19730), and [Huy Quang Tran](https://aita-lab.github.io/member/huy)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
   * [![Kaggle](https://img.shields.io/badge/Kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
 
@@ -75,13 +75,13 @@ toc_label: "Table of Contents"
 #### Winter 2023
 {:.no_toc}
 
-* [Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/) (Special Course)
+* [Winter School on Digital Humanities](https://aita-lab.github.io/2023/11/22/WS/) (Special Course)
   * Instructor: Eun-Soon You
-  * TA: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
-* [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/) (Special Course)
+* [Winter School on Ethics of AI and Robots](https://aita-lab.github.io/2023/11/21/WS/) (Special Course)
   * Instructor: Eun-Soon You
-  * TA: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
 * 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
@@ -95,7 +95,7 @@ toc_label: "Table of Contents"
 
 * [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4)
   * Instructor: O-Joun Lee
-  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * TA: [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://aita-lab.github.io/member/sangnguyen)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
@@ -120,21 +120,21 @@ toc_label: "Table of Contents"
 #### Summer 2023
 {:.no_toc}
 
-* [Summer School on Digital Humanities](https://nslab-cuk.github.io/2023/05/24/SS/) (Special Course)
+* [Summer School on Digital Humanities](https://aita-lab.github.io/2023/05/24/SS/) (Special Course)
   * Instructor: Eun-Soon You
-  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Hyo Eun Lee](https://aita-lab.github.io/member/helee) and [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
-* [Summer School on Technical Writing](https://nslab-cuk.github.io/2023/05/25/SS/) (Special Course)
+* [Summer School on Technical Writing](https://aita-lab.github.io/2023/05/25/SS/) (Special Course)
   * Instructor: Eun-Soon You
-  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Hyo Eun Lee](https://aita-lab.github.io/member/helee) and [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
-* [Summer School on Deep Learning with PyTorch](https://nslab-cuk.github.io/2023/05/31/SS/) (Special Course)
+* [Summer School on Deep Learning with PyTorch](https://aita-lab.github.io/2023/05/31/SS/) (Special Course)
   * Instructor: Namgyu Jung, GCU (정남규, 가천대학교 박사과정)
-  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Hyo Eun Lee](https://aita-lab.github.io/member/helee) and [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
-* [Summer School on eXtended Reality](https://nslab-cuk.github.io/2023/07/03/SS/) (Special Course)
+* [Summer School on eXtended Reality](https://aita-lab.github.io/2023/07/03/SS/) (Special Course)
   * Instructor: Yea Som Lee, CAU (이예솜, 중앙대학교 박사수료)
-  * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Hyo Eun Lee](https://aita-lab.github.io/member/helee) and [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
 * 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
@@ -148,7 +148,7 @@ toc_label: "Table of Contents"
 
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed)
   * Instructor: O-Joun Lee
-  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * TA: [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://aita-lab.github.io/member/sangnguyen)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
@@ -167,9 +167,9 @@ toc_label: "Table of Contents"
 #### Winter 2022
 {:.no_toc}
 
-* [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2022/12/05/WS/) (Special Course)
+* [Winter School on Ethics of AI and Robots](https://aita-lab.github.io/2022/12/05/WS/) (Special Course)
   * Instructor: Eun-Soon You
-  * TA: [Se Eun Cho](https://nslab-cuk.github.io/member/secho) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+  * TA: [Se Eun Cho](https://aita-lab.github.io/member/secho) and [Ho Beom Kim](https://aita-lab.github.io/member/hbkim)
 
 ***
 #### Fall 2022
@@ -180,7 +180,7 @@ toc_label: "Table of Contents"
 
 * 02922-05 Computers & Programming 2
   * Instructor: O-Joun Lee
-  * TA: [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * TA: [Sang Thanh Nguyen](https://aita-lab.github.io/member/sangnguyen)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
   * Instructor: Eun-Soon You
@@ -214,4 +214,4 @@ toc_label: "Table of Contents"
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
 
-***
+*** -->

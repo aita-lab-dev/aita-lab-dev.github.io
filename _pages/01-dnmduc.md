@@ -10,16 +10,16 @@ description: Curriculum vitae of Duc Dang
 
 <br>
 
-[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun) 
-[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en) 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-8921-5443) 
-[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57150108800&logoColor=white) 
-[![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/) 
+[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/122/4888.html) 
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=2UKP440AAAAJ) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-9302-3129) 
+[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185132600) 
+<!-- [![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/)  -->
 [![semanticscholar](https://img.shields.io/badge/Semantic%20Scholar-336699?style=flat-square&logo=semantic+scholar&logoColor=white)](https://www.semanticscholar.org/author/O-Joun-Lee/144914730)
-[![Pure](https://img.shields.io/badge/Pure-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://cuk.elsevierpure.com/en/persons/o-joun-lee) 
-[![Loop](https://img.shields.io/badge/Loop-F29400?style=flat-square&logo=loop&logoColor=white)](https://loop.frontiersin.org/people/800687/) 
-[![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/537246) 
-[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://o-jounlee.github.io/)
+<!-- [![Pure](https://img.shields.io/badge/Pure-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://cuk.elsevierpure.com/en/persons/o-joun-lee)  -->
+<!-- [![Loop](https://img.shields.io/badge/Loop-F29400?style=flat-square&logo=loop&logoColor=white)](https://loop.frontiersin.org/people/800687/)  -->
+[![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/K-6970-2014) 
+[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://dnmduc.github.io/)
 
 <br>
 
@@ -72,7 +72,7 @@ Awards & Grants
 
 Journal Publications
 ============
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
+<!-- * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682 -->
 
 
 ***
@@ -81,7 +81,7 @@ Book Chapters
 ============
 
 
-* O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015,), Edited by Ngoc Thanh Nguyen, Bogdan Trawinski, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42
+<!-- * O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015,), Edited by Ngoc Thanh Nguyen, Bogdan Trawinski, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42 -->
 
 ***
 
@@ -89,15 +89,15 @@ Conference Proceedings
 ============
 
 
-* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014
+<!-- * Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014 -->
 
 ***
 
 Patents
 ============
 
-* 
-* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR 1020140027865, Year: 03/2014
+<!-- * 
+* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR 1020140027865, Year: 03/2014 -->
 
 ***
 
@@ -107,22 +107,22 @@ Academic Activities
 Membership
 ------------
 
-* [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
-* [한국차세대컴퓨팅학회](http://www.kingpc.or.kr/wp/), 이사, since Jan 2023
+<!-- * [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
+* [한국차세대컴퓨팅학회](http://www.kingpc.or.kr/wp/), 이사, since Jan 2023 -->
 
 Editorship
 ------------
 
-* Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
+<!-- * Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
 * [Academic Editor, Plos One](https://journals.plos.org/plosone/static/editorial-board), since Dec 2022
 * Guest Editor, Sensors, Special Issue on "[Machine Learning and AI for Medical Data Analysis](https://www.mdpi.com/journal/sensors/special_issues/mdata_analysis)."
 * Corresponding Guest Editor, Concurrency and Computation: Practice and Experience (CCPE), Special Issue on "[Multimedia Content Analysis for Explainable Recommendation and Retrieval (RACS 2020)](http://www.cc-pe.net/journalinfo/issues/2020.html#RACS2020)."
-* Corresponding Guest Editor, Sustainability, Special Issue on "[Human-Centric Urban Services](https://www.mdpi.com/journal/sustainability/special_issues/human_centric_urban_sus)."
+* Corresponding Guest Editor, Sustainability, Special Issue on "[Human-Centric Urban Services](https://www.mdpi.com/journal/sustainability/special_issues/human_centric_urban_sus)." -->
 
 Conference Committee
 ------------
 
-* Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), TBD, Italy, 10/2024.
+<!-- * Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), TBD, Italy, 10/2024.
 * Program Committee Chair, The 4th International Conference on Human-centered Artificial Intelligence (Computing4Human 2023), Hanoi, Vietnam, 12/2023.
 * Program Committee Chair, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
 * Program Committee Chair, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
@@ -132,12 +132,12 @@ Conference Committee
 * Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
 * Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
 * Committee Member, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea, 08/2017.
-* Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016.
+* Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016. -->
 
 Peer Review
 ------------
 
-* Reviewer, Computers, since Sep 2020
+<!-- * Reviewer, Computers, since Sep 2020
 * Reviewer, Complexity, since Aug 2020
 * Reviewer, Technology in Society, since Aug 2020
 * Reviewer, Symmetry, since Aug 2020
@@ -155,7 +155,7 @@ Peer Review
 * Reviewer, IEEE Access, since Jul 2018
 * Reviewer, Future Generation Computer Systems, since Nov 2017
 * Reviewer, Multimedia Tools and Applications, since Aug 2017
-* Reviewer, PeerJ Computer Science, since Mar 2016
+* Reviewer, PeerJ Computer Science, since Mar 2016 -->
 
 ***
 

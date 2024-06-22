@@ -147,15 +147,15 @@ toc_label: "Table of Contents"
 [![Link](https://img.shields.io/badge/EACL'23-0C2E86?style=flat-square)](https://2023.eacl.org/)
 <span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2023.findings-eacl.85" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
+* Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
 
-* [Ho-Beom Kim](https://nslab-cuk.github.io/member/hbkim), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Detection of Influential Unethical Expressions through Construction of a Spread Graph for Unethical Expression Propagation. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
+* [Ho-Beom Kim](https://aita-lab.github.io/member/hbkim), [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), O-Joun Lee: Detection of Influential Unethical Expressions through Construction of a Spread Graph for Unethical Expression Propagation. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023. ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
 
-* [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Yeong-Min Kim](https://nslab-cuk.github.io/member/ymkim), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022 (in Korean).
+* [Ji-Yoon Song](https://aita-lab.github.io/member/jysong), [Se-Eun Cho](https://aita-lab.github.io/member/secho), [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), [Yeong-Min Kim](https://aita-lab.github.io/member/ymkim), [Hye-Bin Ahn](https://aita-lab.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022 (in Korean).
 
-* Won-Sik Oh, [Se-Eun Cho](https://nslab-cuk.github.io/member/secho), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong), [Hye-Bin Ahn](https://nslab-cuk.github.io/member/hbahn), O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022. (in Korean)
+* Won-Sik Oh, [Se-Eun Cho](https://aita-lab.github.io/member/secho), [Ji-Yoon Song](https://aita-lab.github.io/member/jysong), [Hye-Bin Ahn](https://aita-lab.github.io/member/hbahn), O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022. (in Korean)
 
 * Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. (Editorial)
 
@@ -267,7 +267,7 @@ toc_label: "Table of Contents"
 
 <!-- * O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2022
 
-* Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk. Ref. No: KR 1020220087796, 07/2022
+* Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), [Ji-Yoon Song](https://aita-lab.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk. Ref. No: KR 1020220087796, 07/2022
 
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, 05/2018
 

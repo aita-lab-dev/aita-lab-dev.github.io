@@ -11,9 +11,9 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 # Director
 ***
 
-#### Dr. [Duc Ngoc Minh Dang](https://nslab-cuk.github.io/member/ojlee)
+#### Dr. [Duc Ngoc Minh Dang](https://aita-lab.github.io/member/01-dnmduc)
 
-<img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
+<img align="left" src="/images/Dr_DucDang.jpg" style="width : 180px; height : 240px; margin : 10px">
 
 Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2005 and 2007, respectively. In 2014, he received a Ph.D. degree in Computer Engineering at Kyung Hee University, Korea. From 2005 to 2008, he was a Senior Telecom Engineer with TMA Solutions, Vietnam. From 2008 to 2022, he worked as the Head of the Electronics and Telecommunications Department and Vice Dean of the School of Graduate Studies at Ton Duc Thang University, Vietnam. Since 2022, he has worked as a Lecturer and Researcher at FPT University in Ho Chi Minh City, Vietnam. His research interests include the MAC protocols in Wireless Ad hoc Networks, Vehicular Ad hoc Networks, Deep Learning, and the Internet of Things.
 
@@ -42,11 +42,11 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 <!-- # Post-Doctoral Researchers
 ***
 
-###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
+###### Dr. [Eun-Soon You](https://aita-lab.github.io/member/esyou) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ESYou.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/ESYou.jpg"/></td>  
 		<td><ul>
 			Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
 			<li><a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
@@ -66,11 +66,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <!-- #### Ph.D. Course
 
-###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
+###### [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Thuy.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Thuy.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
 			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam</li>
@@ -86,7 +86,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/MWChoi.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/MWChoi.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
 			<li>Mar 2017 -- Feb 2019: M.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
@@ -97,11 +97,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
+###### [Tien-Bach-Thanh Do](https://aita-lab.github.io/member/osfa19730) (Mar 2024 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Thanh.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Thanh.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2024 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, Chonnam National University, Gwangju, Korea</li>
@@ -113,11 +113,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
+###### [Huy Quang Tran](https://aita-lab.github.io/member/huy) (Mar 2024 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Huy.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Huy.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2024 -- Present: Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Mar 2021 -- Feb 2023: M.Eng. in Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan, Korea</li>
@@ -131,11 +131,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 #### Master's Course
 
-###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
+###### [Phuc Vinh Bui](https://aita-lab.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Phuc.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: M.Eng./Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
@@ -146,11 +146,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
+###### [Sang Thanh Nguyen](https://aita-lab.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sang.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Sang.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: M.Eng. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
 			<li>March 2021 -- Sep 2022: DevOps Engineer, <a href="https://symphony.com/">Symphony</a> project, FPT Software, Danang, Vietnam</li>
@@ -162,11 +162,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
+###### [Yanjun Wu](https://aita-lab.github.io/member/WYJ) (Aug 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ujO.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/ujO.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2023 -- Present: M.Eng. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
 			<li>Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, South Korea</li>
@@ -183,11 +183,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 ***
 
 <!-- 
-###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
+###### [Jiyoon Song](https://aita-lab.github.io/member/jysong) (Dec 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/jysong.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Medical Knowledge Graph</li>
@@ -197,11 +197,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 
-###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) (Nov 2021 -- Present)
+###### [Jooho Lee](https://aita-lab.github.io/member/jhlee) (Nov 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/jhlee.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2020 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Graph Representation Learning</li>
@@ -212,11 +212,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 
-###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
+###### [Hyebin Ahn](https://aita-lab.github.io/member/hbahn) (Dec 2021 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbahn.png"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/hbahn.png"/></td>  
 		<td><ul>
 			<li>Mar 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
@@ -226,11 +226,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 
-###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present)
+###### [Se Eun Cho](https://aita-lab.github.io/member/secho) (Jan 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/secho.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2021 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Knowledge Graph Embedding</li>
@@ -241,11 +241,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 
-###### [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) (Oct 2022 -- Present)
+###### [Ho Beom Kim](https://aita-lab.github.io/member/hbkim) (Oct 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbkim.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/hbkim.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2022 -- Present: Dept. of Mathematices, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Recommendation Systems</li>
@@ -255,11 +255,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) (Jan 2023 -- Present)
+###### [Hyo Eun Lee](https://aita-lab.github.io/member/helee) (Jan 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/helee.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/helee.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2020 -- Present: Dept. of Biotechnology, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Medical Knowledge Graph</li>
@@ -273,7 +273,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <!-- <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Sangmyeong.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li>Research Interest: Recommendation Systems</li>
@@ -285,11 +285,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-<!-- ###### [Hye Min Kim](https://nslab-cuk.github.io/member/hmKim) (Jul 2023 -- Present)
+<!-- ###### [Hye Min Kim](https://aita-lab.github.io/member/hmKim) (Jul 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hmkim.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/hmkim.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2021 -- Present: School of Information, Philosophy and Psychology, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Story generation</li>
@@ -298,11 +298,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-###### [Jin Woo Jeong](https://nslab-cuk.github.io/member/jwJeong) (Jul 2023 -- Present)
+###### [Jin Woo Jeong](https://aita-lab.github.io/member/jwJeong) (Jul 2023 -- Present)
 
 <table border="0">  
    <tr valign="top">
-      <td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jwJeong.jpg"/></td>  
+      <td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/jwJeong.jpg"/></td>  
       <td><ul>
          <li>Mar 2020 -- Present: School of Information, Department of Mathematics, The Catholic University of Korea, Bucheon, Korea</li>      
          <li>Research Interest: voice recognition</li>
@@ -312,11 +312,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
    </tr>
 </table>
 
-###### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present)
+###### [Jinho Seo](https://aita-lab.github.io/member/jhSeo) (Jul 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhSeo.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/jhSeo.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: School of Information, Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Vulnerability Analysis</li>
@@ -327,11 +327,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table> -->
 
 <!-- 
-###### [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
+###### [Yu Jin Yang](https://aita-lab.github.io/member/yjyang) (Feb 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/yjyang.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/yjyang.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2022 -- Present: Dept. of Data Science, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: </li>
@@ -343,11 +343,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 <br>
 #### Interns
 
-* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present) <a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present) <a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present) <a href="https://github.com/seny1004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> <a href="https://velog.io/@cho_se_ny"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-* [Sang Yu Park](https://nslab-cuk.github.io/member/sypark) (Oct 2022 -- Present)
-* [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
+* [Jiyoon Song](https://aita-lab.github.io/member/jysong) (Dec 2021 -- Present) <a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [Hyebin Ahn](https://aita-lab.github.io/member/hbahn) (Dec 2021 -- Present) <a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [Se Eun Cho](https://aita-lab.github.io/member/secho) (Jan 2022 -- Present) <a href="https://github.com/seny1004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> <a href="https://velog.io/@cho_se_ny"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+* [Sang Yu Park](https://aita-lab.github.io/member/sypark) (Oct 2022 -- Present)
+* [Yu Jin Yang](https://aita-lab.github.io/member/yjyang) (Feb 2023 -- Present)
 -->
 
 ***
@@ -368,7 +368,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <!-- <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Sangmyeong.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
 				
