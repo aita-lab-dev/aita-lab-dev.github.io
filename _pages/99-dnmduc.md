@@ -99,6 +99,12 @@ Patents
 <!-- * 
 * O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR 1020140027865, Year: 03/2014 -->
 
+Patents registered in Korea under name “당넉민덕”:
+* 0-1533192, 2015.06.25
+* 10-1526121, 2015.05.29
+* 10-1436699, 2014.08.26
+
+
 ***
 
 Academic Activities
@@ -121,6 +127,10 @@ Editorship
 
 Conference Committee
 ------------
+
+* General Chair, 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024), Ho Chi Minh City, Vietnam
+* Technical Program Committee Member, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam
+* Technical Program Committee Member, 2024 3rd International Conference on Intelligence of Things (ICIT), Da Nang, Vietnam
 
 <!-- * Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), TBD, Italy, 10/2024.
 * Program Committee Chair, The 4th International Conference on Human-centered Artificial Intelligence (Computing4Human 2023), Hanoi, Vietnam, 12/2023.
@@ -156,6 +166,26 @@ Peer Review
 * Reviewer, Future Generation Computer Systems, since Nov 2017
 * Reviewer, Multimedia Tools and Applications, since Aug 2017
 * Reviewer, PeerJ Computer Science, since Mar 2016 -->
+* Expert Systems with Applications
+* IEEE Communications Letters
+* IEEE Wireless Communications Letters
+* IEEE Transactions on Wireless Communications
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Intelligent Transportation Systems 
+* IEEE Transactions on Microwave Theory and Techniques
+* IEEE Transactions on Cognitive Communications and Networking
+* IEEE Sensors Journal
+* IEEE Access
+* IET Communications
+* IET Networks
+* Future Generation Computer Systems (Elsevier)
+* Pervasive and Mobile Computing (Elsevier)
+* Computer Communications
+* Vehicular Communications
+* China Communications
+
+
+
 
 ***
 

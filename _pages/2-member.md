@@ -23,7 +23,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 * 2011 -- 2014: Research assistant and Post-doc researcher at Department of Computer Engineering, Kyung Hee University, Korea
 * 2008 -- 2011: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
 * 2008 -- 2011: Head of Laboratory, Faculty of Electrical and Electronics Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam 
-* 2005 -- 2008: Senior Telecom Engineer -Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
+* 2005 -- 2008: Senior Telecom Engineer - Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
 
 
 <!-- * Sep 2021 -- Present: Assistant Professor, [Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), CUK
