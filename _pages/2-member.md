@@ -13,7 +13,7 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 
 #### Dr. [Duc Ngoc Minh Dang](https://aita-lab.github.io/member/99-dnmduc)
 
-<img align="left" src="/images/Dr_DucDang.jpg" style="width : 200px; height : 200px; margin : 10px">
+<img align="left" src="/images/Dr_DucDang.jpg" style="width : 180px; height : 180px; margin : 10px">
 
 Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2005 and 2007, respectively. In 2014, he received a Ph.D. degree in Computer Engineering at Kyung Hee University, Korea. From 2005 to 2008, he was a Senior Telecom Engineer with TMA Solutions, Vietnam. From 2008 to 2022, he worked as the Head of the Electronics and Telecommunications Department and Vice Dean of the School of Graduate Studies at Ton Duc Thang University, Vietnam. Since 2022, he has worked as a Lecturer and Researcher at FPT University in Ho Chi Minh City, Vietnam. His research interests include the MAC protocols in Wireless Ad hoc Networks, Vehicular Ad hoc Networks, Deep Learning, and the Internet of Things.
 
@@ -269,7 +269,11 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 -->
 
-###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Dec 2022)
+###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Present)
+
+###### [Hai Nam Van Phan](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Present)
+
+###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Present)
 
 <!-- <table border="0">  
 	<tr valign="top">
