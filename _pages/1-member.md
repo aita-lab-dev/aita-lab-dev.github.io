@@ -269,11 +269,19 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 -->
 
-###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Present)
+###### [Thu Thuy Le](https://aita-lab.github.io/member/ltthuy) (Sep 2022 -- Present)
 
-###### [Hai Nam Van Phan](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Present)
+###### [Hai Nam Van Phan](https://aita-lab.github.io/member/pvhnam) (Sep 2022 -- Present)
 
-###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Present)
+###### [Trung Minh Nguyen](https://aita-lab.github.io/member/nmtrung) (Sep 2022 -- Present)
+
+###### [Nhut Minh Nguyen](https://aita-lab.github.io/member/nmnhut) (Sep 2022 -- Present)
+
+###### [Thanh Trung Nguyen](https://aita-lab.github.io/member/nttrung) (Sep 2022 -- Present)
+
+###### [Hua Hiep Nguyen](https://aita-lab.github.io/member/nhhiep) (Sep 2022 -- Present)
+
+###### [Duc Tai Phan](https://aita-lab.github.io/member/pdtai) (Sep 2022 -- Present)
 
 <!-- <table border="0">  
 	<tr valign="top">
@@ -395,6 +403,34 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table> -->
 
+###### [Thanh Duong Tran](https://aita-lab.github.io/member/ttduong) (Jun 2023 -- Dec 2023)
+
+<!-- <table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Sangmyeong.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
+				
+			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table> -->
+
+###### [Trung Thanh Pham](https://aita-lab.github.io/member/pttrung) (Jun 2023 -- Dec 2023)
+
+<!-- <table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Sangmyeong.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
+				
+			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table> -->
+
 ***
 # Collaborators
 ***
@@ -402,7 +438,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 * Dr. Anh-Khoa Tran, National Institute of Information and Communications Technology, Tokyo, Japan
 * Dr. Tuan Cuong Nguyen, Vietnamese-German University, Vietnam
-* Ph.D.c [Pham Nhat Truong] (https://nhattruongpham.github.io/), Sungkyunkwan University, Suwon, Korea
+* Ph.D.c [Pham Nhat Truong](https://nhattruongpham.github.io/), Sungkyunkwan University, Suwon, Korea
 
 <!-- * [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
