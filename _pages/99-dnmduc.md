@@ -2,7 +2,7 @@
 layout: page
 title: "Duc Ngoc Minh Dang, Ph.D."
 permalink: /member/dnmduc
-image: 
+image: DucDang_KHU.jpg
 description: Curriculum vitae of Duc Dang
 ---
 
@@ -267,7 +267,7 @@ Master students
 
 * Tran Van Thau, "Multi-Channel MAC protocol for IEEE 802.11ah wireless networks", Ton Duc Thang University, 2021
 
-* Pham Nhat Truong, "A method upon deep learning for speech emotion recognition", Ton Duc Thang University, 2021
+* [Pham Nhat Truong](https://nhattruongpham.github.io/), "A method upon deep learning for speech emotion recognition", Ton Duc Thang University, 2021
 
 * Tran Khanh Duong, "Enhancing the reliability of broadcasting safety message in VANETs", Ton Duc Thang University, 2020 
 

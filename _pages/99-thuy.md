@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Van Thuy Hoang"
-permalink: /member/hoangvanthuy90
+title: "Thu Thuy Le"
+permalink: /member/ltthuy
 image: 
-description: Curriculum vitae of Van Thuy Hoang
+description: Curriculum vitae of Thu Thuy Le
 ---
 
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/291/1059.html) 
