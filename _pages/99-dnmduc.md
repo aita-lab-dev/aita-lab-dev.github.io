@@ -6,13 +6,14 @@ image:
 description: Curriculum vitae of Duc Dang
 ---
 
-> Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
+<!-- > Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details. -->
 
 <br>
 
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/122/4888.html) 
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=2UKP440AAAAJ) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-9302-3129) 
+[![Researchgate](https://img.shields.io/badge/researchgate-black?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Duc-Dang-6) 
 [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185132600) 
 <!-- [![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/)  -->
 [![semanticscholar](https://img.shields.io/badge/Semantic%20Scholar-336699?style=flat-square&logo=semantic+scholar&logoColor=white)](https://www.semanticscholar.org/author/Duc-Ngoc-Minh-Dang/3103584)

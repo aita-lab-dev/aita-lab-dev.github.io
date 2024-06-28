@@ -275,6 +275,8 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 ###### [Trung Minh Nguyen](https://aita-lab.github.io/member/nmtrung) (Sep 2022 -- Present)
 
+###### [Minh Khanh Phan](https://aita-lab.github.io/member/pmkhanh) (Sep 2022 -- Present)
+
 ###### [Nhut Minh Nguyen](https://aita-lab.github.io/member/nmnhut) (Sep 2022 -- Present)
 
 ###### [Thanh Trung Nguyen](https://aita-lab.github.io/member/nttrung) (Sep 2022 -- Present)
@@ -437,7 +439,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 
 * Dr. Anh-Khoa Tran, National Institute of Information and Communications Technology, Tokyo, Japan
-* Dr. Tuan Cuong Nguyen, Vietnamese-German University, Vietnam
+* Dr. [Tuan Cuong Nguyen](https://ntcuong2103.github.io/), Vietnamese-German University, Vietnam
 * Ph.D.c [Pham Nhat Truong](https://nhattruongpham.github.io/), Sungkyunkwan University, Suwon, Korea
 
 <!-- * [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
