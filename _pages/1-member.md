@@ -269,21 +269,23 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 -->
 
-###### [Thu Thuy Le](https://aita-lab.github.io/member/ltthuy) (Sep 2022 -- Present)
 
-###### [Hai Nam Van Phan](https://aita-lab.github.io/member/pvhnam) (Sep 2022 -- Present)
 
-###### [Trung Minh Nguyen](https://aita-lab.github.io/member/nmtrung) (Sep 2022 -- Present)
+###### [Hai Nam Van Phan](https://aita-lab.github.io/member/pvhnam) (Sep 2023 -- Present)
 
-###### [Minh Khanh Phan](https://aita-lab.github.io/member/pmkhanh) (Sep 2022 -- Present)
+###### [Trung Minh Nguyen](https://aita-lab.github.io/member/nmtrung) (Sep 2023 -- Present)
 
-###### [Nhut Minh Nguyen](https://aita-lab.github.io/member/nmnhut) (Sep 2022 -- Present)
+###### [Minh Khanh Phan](https://aita-lab.github.io/member/pmkhanh) (Sep 2023 -- Present)
 
-###### [Thanh Trung Nguyen](https://aita-lab.github.io/member/nttrung) (Sep 2022 -- Present)
+###### [Thu Thuy Le](https://aita-lab.github.io/member/ltthuy) (Dec 2023 -- Present)
 
-###### [Hua Hiep Nguyen](https://aita-lab.github.io/member/nhhiep) (Sep 2022 -- Present)
+###### [Nhut Minh Nguyen](https://aita-lab.github.io/member/nmnhut) (Apr 2024 -- Present)
 
-###### [Duc Tai Phan](https://aita-lab.github.io/member/pdtai) (Sep 2022 -- Present)
+###### [Thanh Trung Nguyen](https://aita-lab.github.io/member/nttrung) (Apr 2024 -- Present)
+
+###### [Hua Hiep Nguyen](https://aita-lab.github.io/member/nhhiep) (Apr 2024 -- Present)
+
+###### [Duc Tai Phan](https://aita-lab.github.io/member/pdtai) (Apr 2024-- Present)
 
 <!-- <table border="0">  
 	<tr valign="top">
@@ -378,20 +380,20 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 #### B.Eng.
 
-###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Sep 2022 -- Dec 2022)
+###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Jan 2023 -- Aug 2024)
 
-<!-- <table border="0">  
+<table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/Sangmyeong.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/NamTran.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
-				
+<!-- 				
 			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
+			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li> -->
 		</ul></td>
 	</tr>
-</table> -->
-###### [Nguyen Doan Hieu Nguyen](https://aita-lab.github.io/member/ndhnguyen) (Jun 2023 -- Dec 2023)
+</table>
+###### [Nguyen Doan Hieu Nguyen](https://aita-lab.github.io/member/ndhnguyen) (Jun 2023 -- Dec 2024)
 
 <!-- <table border="0">  
 	<tr valign="top">

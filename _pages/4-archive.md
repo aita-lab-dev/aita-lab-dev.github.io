@@ -2,8 +2,8 @@
 layout: page
 title: Archive
 permalink: /archive/
-image: CUK_4Seasons.jpg
-description: Archive of events, memories and achievements of the Network Science Lab at the Catholic University of Korea
+image: 
+description: Archive of events, memories and achievements of the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 ---
 
 <h5>Table of Contents</h5>

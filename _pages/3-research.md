@@ -3,13 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 image: 
-description: Presentation of the research areas and ongoing research projects of he AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
+description: Presentation of the research areas and ongoing research projects of the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-> Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
+<!-- > Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details. -->
 
 ***
 
