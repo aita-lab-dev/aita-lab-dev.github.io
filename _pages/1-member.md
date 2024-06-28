@@ -25,7 +25,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 * 2008 -- 2011: Head of Laboratory, Faculty of Electrical and Electronics Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam 
 * 2005 -- 2008: Senior Telecom Engineer - Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
 
-
 <!-- * Sep 2021 -- Present: Assistant Professor, [Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), CUK
 * Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, POSTECH
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a> -->
@@ -384,7 +383,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/NamTran.jpg"/></td>  
+		<td width="120"><img align="left" width="150px" margin="10px" src="https://aita-lab.github.io/images/NamTran.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
 <!-- 				
