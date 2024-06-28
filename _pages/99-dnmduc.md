@@ -13,7 +13,7 @@ description: Curriculum vitae of Duc Dang
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/122/4888.html) 
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=2UKP440AAAAJ) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-9302-3129) 
-[![Researchgate](https://img.shields.io/badge/researchgate-black?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Duc-Dang-6) 
+[![Researchgate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Duc-Dang-6) 
 [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185132600) 
 <!-- [![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/)  -->
 [![semanticscholar](https://img.shields.io/badge/Semantic%20Scholar-336699?style=flat-square&logo=semantic+scholar&logoColor=white)](https://www.semanticscholar.org/author/Duc-Ngoc-Minh-Dang/3103584)
@@ -74,7 +74,6 @@ Awards & Grants
 
 Journal Publications
 ============
-<!-- * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682 -->
 
 * Hoang Hai Son, Vo Phuc Tinh, Duc Ngoc Minh Dang, Bui Thi Duyen, Duy-Dong Le, Thai-Thinh Dang, Quoc-Hung Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Tran Anh Khoa & Nguyen Hoang Nam, "A novel solution for energy-saving and lifetime-maximizing of LoRa wireless mesh networks", Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2235114
 
@@ -226,8 +225,7 @@ International conference
 Book Chapters
 ============
 
-
-<!-- * O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015,), Edited by Ngoc Thanh Nguyen, Bogdan Trawinski, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42 -->
+* Duc Ngoc Minh Dang, Choong Seon Hong; Multi-channel MAC Protocols and Power Control for Wireless Ad hoc Networks; Wiley Encyclopedia of Electrical and Electronics Engineering, DOI: 10.1002/047134608X.W8305.
 
 ***
 
@@ -256,6 +254,25 @@ Patents registered in Korea under name “당넉민덕”:
 Academic Activities
 ============
 
+Advisor
+------------
+
+Master students
+
+* Bui Huu Hiep, "Design a spatial multi-channel MAC protocol for IEEE 802.11ah", Ton Duc Thang University, 2023
+
+* Nguyen Tan Long, "Priority-based uplink RAW slot utilization for uplink performance enhancement in IEEE 802.11ah networks", Ton Duc Thang University, 2023
+
+* Nguyen Thanh Phong, "Design an uplink registration-based MAC protocol for IEEE 802.11ah networks", Ton Duc Thang University, 2023
+
+* Tran Van Thau, "Multi-Channel MAC protocol for IEEE 802.11ah wireless networks", Ton Duc Thang University, 2021
+
+* Pham Nhat Truong, "A method upon deep learning for speech emotion recognition", Ton Duc Thang University, 2021
+
+* Tran Khanh Duong, "Enhancing the reliability of broadcasting safety message in VANETs", Ton Duc Thang University, 2020 
+
+* Ngo Tu Quynh, "A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks", Ho Chi Minh City University of Science, 2016 
+
 Membership
 ------------
 
@@ -278,17 +295,7 @@ Conference Committee
 * Technical Program Committee Member, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam
 * Technical Program Committee Member, 2024 3rd International Conference on Intelligence of Things (ICIT), Da Nang, Vietnam
 
-<!-- * Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), TBD, Italy, 10/2024.
-* Program Committee Chair, The 4th International Conference on Human-centered Artificial Intelligence (Computing4Human 2023), Hanoi, Vietnam, 12/2023.
-* Program Committee Chair, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
-* Program Committee Chair, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
-* Program Committee Member, Artificial Inteligence for Narratives Workshop (AI4Narrative) held in conjunction with the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020), 07/2020.
-* Committee Member, The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea, 02/2020.
-* Member of Track Committee, The SFECS track at the 35th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2020), Brno, Czech Republic, 03/2020.
-* Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
-* Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
-* Committee Member, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea, 08/2017.
-* Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016. -->
+
 
 Peer Review
 ------------
@@ -296,21 +303,6 @@ Peer Review
 <!-- * Reviewer, Computers, since Sep 2020
 * Reviewer, Complexity, since Aug 2020
 * Reviewer, Technology in Society, since Aug 2020
-* Reviewer, Symmetry, since Aug 2020
-* Reviewer, Applied Sciences, since Jun 2020
-* Reviewer, Plos One, since Apr 2020
-* Reviewer, IEEE Transactions on Mobile Computing, since Feb 2020
-* Reviewer, Digital Scholarship in the Humanities, since Dec 2019
-* Reviewer, Journal of Artificial Intelligence Humanities, since Oct 2019
-* Reviewer, IEEE Transactions on Industrial Informatics, since Jul 2019
-* Reviewer, Journal of Ambient Intelligence and Humanized Computing, since Jun 2019
-* Reviewer, Smart Media Journal, since Apr 2019
-* Reviewer, Open Engineering, since Jan 2019
-* Reviewer, Concurrency and Computation: Practice and Experience, since Jan 2019
-* Reviewer, International Journal of Information Management, since Dec 2018
-* Reviewer, IEEE Access, since Jul 2018
-* Reviewer, Future Generation Computer Systems, since Nov 2017
-* Reviewer, Multimedia Tools and Applications, since Aug 2017
 * Reviewer, PeerJ Computer Science, since Mar 2016 -->
 * Expert Systems with Applications
 * IEEE Communications Letters
@@ -341,7 +333,7 @@ Projects
 Principal Investigator
 ------------
 
-* 
+* Real-time traffic sign detection and recognition in Vietnam, DHFPT/2023/10, Jul 2023 - Jul 2024
 
 Co-Principal Investigator
 ------------
