@@ -27,7 +27,7 @@ Research Experience
 
 Education
 ============
-* Dec 2022 -- Present: B.Eng, Dept. of Computing Fundamental, FPT University, Ho Chi Minh, Vietnam
+* Dec 2022 -- Present: B.Sc., Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam
 
 ***
 

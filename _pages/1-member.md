@@ -276,7 +276,16 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 ###### [Minh Khanh Phan](https://aita-lab.github.io/member/pmkhanh) (Sep 2023 -- Present)
 
-###### [Thu Thuy Le](https://aita-lab.github.io/member/ltthuy) (Dec 2023 -- Present)
+###### [Thu Thuy Le](https://aita-lab.github.io/member/ltthuy) (Aug 2023 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/ThuyLe.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Research Interest: Segmentation</li>			
+		</ul></td>
+	</tr>
+</table>
 
 ###### [Nhut Minh Nguyen](https://aita-lab.github.io/member/nmnhut) (Apr 2024 -- Present)
 
@@ -386,9 +395,9 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="150px" margin="10px" src="https://aita-lab.github.io/images/NamTran.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2023 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
-<!-- 				
-			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li> -->
+			<li>Research Interest: computer vision, natural language processing, multi-modal, reinforcement learning</li>				
+			<!-- <li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>  -->
 		</ul></td>
 	</tr>
 </table>
