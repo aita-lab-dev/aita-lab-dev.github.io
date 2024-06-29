@@ -6,10 +6,10 @@ image:
 description: Curriculum vitae of Thu Thuy Le
 ---
 
-[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/291/1059.html) 
-[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en) 
+<!-- [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/291/1059.html)  -->
+<!-- [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en)  -->
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0006-9046-4774) 
-[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58203779900) 
+<!-- [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58203779900)  -->
 
 <br>
 

@@ -6,7 +6,7 @@ image: DucDang_KHU.jpg
 description: Curriculum vitae of Duc Dang
 ---
 
-<!-- > Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details. -->
+> Always be happy and keep smiling
 
 <br>
 
@@ -83,35 +83,35 @@ Journal Publications
 
 * Hoang, Hai Son, Anh Khoa Tran, Thanh Phong Doan, Huu Khoa Tran,  Duc Ngoc Minh Dang, and Hoang Nam Nguyen. "Design and implementation of a VoIP PBX integrated Vietnamese virtual assistant: a case study." Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.218363.
 
-* Nhat Truong Pham, Sy Dzung Nguyen, Vu Song Thuy Nguyen, Bich Ngoc Hong Pham, and Duc Ngoc Minh Dang “Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network”, Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2187278 [link]
+* Nhat Truong Pham, Sy Dzung Nguyen, Vu Song Thuy Nguyen, Bich Ngoc Hong Pham, and Duc Ngoc Minh Dang “Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network”, Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2187278.
 
 * Tran, Anh-Tuan, Nhat Truong Pham, Van Van Huynh, and Duc Ngoc Minh Dang. "Stabilizing and Enhancing Frequency Control of Power System Using Decentralized Observer-Based Sliding Mode Control." Journal of Control, Automation and Electrical Systems 34, no. 3 (2023): 541-553, DOI: 10.1007/s40313-022-00979-y 
 
-* Nhat Truong Pham, Duc Ngoc Minh Dang, and Sy Dung Nguyen “A Method upon Deep Learning for Speech Emotion Recognition”, Journal of Advanced Engineering and Computation, 2021, DOI: 10.25073/jaec.202044.311 [link]
+* Nhat Truong Pham, Duc Ngoc Minh Dang, and Sy Dung Nguyen “A Method upon Deep Learning for Speech Emotion Recognition”, Journal of Advanced Engineering and Computation, 2021, DOI: 10.25073/jaec.202044.311.
 
-* Tran Anh Khoa, Nguyen Quang Minh, Hoang Hai Son, Cao Nguyen Dang Khoa, Dinh Ngoc Tan, Nguyen VanDung, Nguyen Hoang Nam, Dang Ngoc Minh Duc, Nguyen Trung Tin, “Wireless Sensor Networks and Machine Learning Meet Climate Change Prediction”, International Journal of Communication Systems, 2020, DOI: 10.1002/dac.4687 (SCIE) [link].
+* Tran Anh Khoa, Nguyen Quang Minh, Hoang Hai Son, Cao Nguyen Dang Khoa, Dinh Ngoc Tan, Nguyen VanDung, Nguyen Hoang Nam, Dang Ngoc Minh Duc, Nguyen Trung Tin, “Wireless Sensor Networks and Machine Learning Meet Climate Change Prediction”, International Journal of Communication Systems, 2020, DOI: 10.1002/dac.4687 (SCIE).
 
-* Tran Anh Khoa, Le Mai Bao Nhu, Hoang Hai Son, Nguyen Minh Trong, Cao Hoang Phuc, Nguyen Thi Hoang Phuong, Nguyen Van Dung, Nguyen Hoang Nam, Dong Si Thien Chau, and Dang Ngoc Minh Duc, "Designing Efficient Smart Home Management with IoT Smart Lighting: A Case Study", Wireless Communications and Mobile Computing, 2020, DOI: 10.1155/2020/8896637 (SCIE) [link].
+* Tran Anh Khoa, Le Mai Bao Nhu, Hoang Hai Son, Nguyen Minh Trong, Cao Hoang Phuc, Nguyen Thi Hoang Phuong, Nguyen Van Dung, Nguyen Hoang Nam, Dong Si Thien Chau, and Dang Ngoc Minh Duc, "Designing Efficient Smart Home Management with IoT Smart Lighting: A Case Study", Wireless Communications and Mobile Computing, 2020, DOI: 10.1155/2020/8896637 (SCIE).
 
-* Duc Ngoc Minh Dang, Quynh Tu Ngo, Quan Le-Trung and Long Bao Le, "An Adaptive and Cooperative MAC Protocol in Vehicular Ad hoc Network: Design and Performance Analysis", International Journal of Ad Hoc and Ubiquitous Computing, 2020, DOI: 10.1504/IJAHUC.2020.10033621 (SCIE) [link].
+* Duc Ngoc Minh Dang, Quynh Tu Ngo, Quan Le-Trung and Long Bao Le, "An Adaptive and Cooperative MAC Protocol in Vehicular Ad hoc Network: Design and Performance Analysis", International Journal of Ad Hoc and Ubiquitous Computing, 2020, DOI: 10.1504/IJAHUC.2020.10033621 (SCIE).
 
-* Quynh Tu Ngo, Duc Ngoc Minh Dang, and Quan Le-Trung, "An Extreme Power Saving Directional MAC Protocol in IEEE 802.11ah Networks", IET Networks, 2020, DOI: 10.1049/iet-net.2019.0176 [link]
+* Quynh Tu Ngo, Duc Ngoc Minh Dang, and Quan Le-Trung, "An Extreme Power Saving Directional MAC Protocol in IEEE 802.11ah Networks", IET Networks, 2020, DOI: 10.1049/iet-net.2019.0176.
 
-* Anh Khoa Tran, Cao Hoang Phuc, Pham Duc Lam, Le Mai Bao Nhu, Nguyen Minh Trong, Nguyen Thi Hoang Phuong, Nguyen Van Dung, Nguyen Tan-Y, Hoang Nam Nguyen, and Dang Ngoc Minh Duc. "Waste Management System Using IoT-Based Machine Learning in University" Wireless Communications and Mobile Computing (2020), DOI: 10.1155/2020/6138637 (SCIE) [link].
+* Anh Khoa Tran, Cao Hoang Phuc, Pham Duc Lam, Le Mai Bao Nhu, Nguyen Minh Trong, Nguyen Thi Hoang Phuong, Nguyen Van Dung, Nguyen Tan-Y, Hoang Nam Nguyen, and Dang Ngoc Minh Duc. "Waste Management System Using IoT-Based Machine Learning in University" Wireless Communications and Mobile Computing (2020), DOI: 10.1155/2020/6138637 (SCIE).
 
-* Quynh Tu Ngo, Duc Ngoc Minh Dang, and Khoa Anh Tran, “Flying Height Optimization for Unmanned Aerial Vehicles in Cellular - Flying Adhoc Network”, Journal of Advanced Engineering and Computation, 2018, DOI: 10.25073/jaec.201824.210 [link].
+* Quynh Tu Ngo, Duc Ngoc Minh Dang, and Khoa Anh Tran, “Flying Height Optimization for Unmanned Aerial Vehicles in Cellular - Flying Adhoc Network”, Journal of Advanced Engineering and Computation, 2018, DOI: 10.25073/jaec.201824.210.
 
-* Duc Ngoc Minh Dang, VanDung Nguyen, Tra Huong Thi Le, Choong Seon Hong, and Jongwon Choe, "An Efficient Multi-channel MAC protocol for Wireless Ad hoc Networks", Ad Hoc Networks, vol 44, no. 1, pp. 46-57, Jul  2016, DOI: 10.1016/j.adhoc.2016.02.013 (SCIE) [link].
+* Duc Ngoc Minh Dang, VanDung Nguyen, Tra Huong Thi Le, Choong Seon Hong, and Jongwon Choe, "An Efficient Multi-channel MAC protocol for Wireless Ad hoc Networks", Ad Hoc Networks, vol 44, no. 1, pp. 46-57, Jul  2016, DOI: 10.1016/j.adhoc.2016.02.013 (SCIE).
 
-* Thant Zin Oo, Nguyen H. Tran, Duc Ngoc Minh Dang, Zhu Han, Long Bao Le, and Choong Seon Hong, “OMF-MAC: An Opportunistic Matched Filter-based MAC in Cognitive Radio Networks”, IEEE Transaction on Vehicular Technology, 2015, DOI: 10.1109/TVT.2015.2415033 (SCI) [link].
+* Thant Zin Oo, Nguyen H. Tran, Duc Ngoc Minh Dang, Zhu Han, Long Bao Le, and Choong Seon Hong, “OMF-MAC: An Opportunistic Matched Filter-based MAC in Cognitive Radio Networks”, IEEE Transaction on Vehicular Technology, 2015, DOI: 10.1109/TVT.2015.2415033 (SCI).
 
-* Phuong Luu Vo, Duc Ngoc Minh Dang, Sungwon Lee, Choong Seon Hong, and Trung-Quan Le, "A Coalitional Game Approach for Fractional Cooperative Caching in Content-Oriented Networks", Elsevier Computer Networks, vol. 77, no. 11, pp. 144-152, Feb, 2015, DOI: 10.1016/j.comnet.2014.12.005 (SCIE) [link].
+* Phuong Luu Vo, Duc Ngoc Minh Dang, Sungwon Lee, Choong Seon Hong, and Trung-Quan Le, "A Coalitional Game Approach for Fractional Cooperative Caching in Content-Oriented Networks", Elsevier Computer Networks, vol. 77, no. 11, pp. 144-152, Feb, 2015, DOI: 10.1016/j.comnet.2014.12.005 (SCIE).
 
-* Duc Ngoc Minh Dang, Choong Seon Hong, and Sungwon Lee, ”A Hybrid Multi-channel MAC Protocol for Wireless Ad hoc Networks”, Wireless Network, ISSN: 1022-0038, Aug 2014, DOI: 10.1007/s11276-014-0789-8 (SCI) [link].
+* Duc Ngoc Minh Dang, Choong Seon Hong, and Sungwon Lee, ”A Hybrid Multi-channel MAC Protocol for Wireless Ad hoc Networks”, Wireless Network, ISSN: 1022-0038, Aug 2014, DOI: 10.1007/s11276-014-0789-8 (SCI).
 
-* Duc Ngoc Minh Dang, Choong Seon Hong, Sungwon Lee, and Eui-Nam Huh, "An Efficient and Reliable MAC in VANETs", IEEE Communications Letters, vol.18, no.4, pp. 616-619, Apr 2014, DOI: 10.1109/LCOMM.2014.030114.132504 (SCI) [link].
+* Duc Ngoc Minh Dang, Choong Seon Hong, Sungwon Lee, and Eui-Nam Huh, "An Efficient and Reliable MAC in VANETs", IEEE Communications Letters, vol.18, no.4, pp. 616-619, Apr 2014, DOI: 10.1109/LCOMM.2014.030114.132504 (SCI).
 
-* Duc Ngoc Minh Dang, Choong Seon Hong, Sungwon Lee, and Jaejo Lee, "A SINR-based MAC Protocol for Wireless Ad hoc Networks",  IEEE Communications Letters, vol.16, no.12, pp. 2016-2019, Dec 2012, DOI: 10.1109/LCOMM.2012.111412.121916 (SCI) [link].
+* Duc Ngoc Minh Dang, Choong Seon Hong, Sungwon Lee, and Jaejo Lee, "A SINR-based MAC Protocol for Wireless Ad hoc Networks",  IEEE Communications Letters, vol.16, no.12, pp. 2016-2019, Dec 2012, DOI: 10.1109/LCOMM.2012.111412.121916 (SCI).
 
 ***
 
@@ -190,29 +190,29 @@ International conference
 
 * Phuong Luu Vo, Tuan-Anh Le, Saeed Ullah and Duc Ngoc Minh Dang, "Content Caching for Adaptive Bit Rate Streaming in Cache Networks", International Conference on Advanced Computing and Applications (ACOMP 2014), HCMC, Vietnam, 19-21 Nov. 2014.
 
-* Duc Ngoc Minh Dang, VanDung Nguyen, Pham Chuan, Thant Zin Oo and Choong Seon Hong, "A Reliable Multi-hop Safety Message Broadcast in Vehicular Ad hoc Networks", 16th Asia-Pacific Network Operations and Management Symposium (APNOMS-2014), Taiwan, 17-19 Sep. 2014. [link]
+* Duc Ngoc Minh Dang, VanDung Nguyen, Pham Chuan, Thant Zin Oo and Choong Seon Hong, "A Reliable Multi-hop Safety Message Broadcast in Vehicular Ad hoc Networks", 16th Asia-Pacific Network Operations and Management Symposium (APNOMS-2014), Taiwan, 17-19 Sep. 2014.
 
-* VanDung Nguyen, Duc Ngoc Minh Dang, Sungman Jang, Choong Seon Hong, "e-VeMAC: An Enhanced Vehicular MAC Protocol to Mitigate the Exposed Terminal Problem", 16th Asia-Pacific Network Operations and Management Symposium (APNOMS-2014), Taiwan, 17-19 Sep. 2014. [link]
+* VanDung Nguyen, Duc Ngoc Minh Dang, Sungman Jang, Choong Seon Hong, "e-VeMAC: An Enhanced Vehicular MAC Protocol to Mitigate the Exposed Terminal Problem", 16th Asia-Pacific Network Operations and Management Symposium (APNOMS-2014), Taiwan, 17-19 Sep. 2014.
 
-* Duc Ngoc Minh Dang, Hanh Ngoc Dang, VanDung Nguyen, Zaw Htike and Choong Seon Hong, "HER-MAC: A Hybrid Efficient and Reliable MAC for Vehicular Ad hoc Networks", 28th IEEE International Conference on Advanced Information Networking and Applications (AINA-2014), pp 186 - 193, Victoria, Canada, 13-16 May. 2014. [acceptance rate = 27%] [link] [ppt]
+* Duc Ngoc Minh Dang, Hanh Ngoc Dang, VanDung Nguyen, Zaw Htike and Choong Seon Hong, "HER-MAC: A Hybrid Efficient and Reliable MAC for Vehicular Ad hoc Networks", 28th IEEE International Conference on Advanced Information Networking and Applications (AINA-2014), pp 186 - 193, Victoria, Canada, 13-16 May. 2014. [acceptance rate = 27%]. [ppt]
 
-* Cuong Do The, Duc Ngoc Minh Dang, Tuan Le Anh, Nguyen Tran Hoang, Rim Haw and Choong Seon Hong, "Power Control under QoS and Interference Constraint in Femtocell Cognitive Networks", International Conference on Information Networking (ICOIN 2014), Phuket, Thailand, 10-12 Feb. 2014. [link]
+* Cuong Do The, Duc Ngoc Minh Dang, Tuan Le Anh, Nguyen Tran Hoang, Rim Haw and Choong Seon Hong, "Power Control under QoS and Interference Constraint in Femtocell Cognitive Networks", International Conference on Information Networking (ICOIN 2014), Phuket, Thailand, 10-12 Feb. 2014.
 
-* Duc Ngoc Minh Dang, Phuong Luu Vo, Chi Kwang Hwang and Choong Seon Hong, "Mitigating starvation in Wireless Ad hoc Networks: Multi-channel MAC and Power Control", 8th International Conference on Ubiquitous Information Management and Communication (IMCOM-2014), Siem Riep, Cambodia, 9-12 Jan. 2014. [link] [ppt] [Nominee for the Best Paper Award]
+* Duc Ngoc Minh Dang, Phuong Luu Vo, Chi Kwang Hwang and Choong Seon Hong, "Mitigating starvation in Wireless Ad hoc Networks: Multi-channel MAC and Power Control", 8th International Conference on Ubiquitous Information Management and Communication (IMCOM-2014), Siem Riep, Cambodia, 9-12 Jan. 2014. [ppt] [Nominee for the Best Paper Award]
 
-* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "Performance analysis of the IEEE 802.11p under finite traffic conditions", International Conference on Advanced Engineering – Theory and Applications (AETA-2013), pp 191-199, 11-13 Dec. 2013, Ho Chi Minh City, Vietnam. [link]
+* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "Performance analysis of the IEEE 802.11p under finite traffic conditions", International Conference on Advanced Engineering – Theory and Applications (AETA-2013), pp 191-199, 11-13 Dec. 2013, Ho Chi Minh City, Vietnam.
 
-* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Efficient and Reliable MAC for Vehicular Ad Hoc Networks", 15th Asia-Pacific Network Operations and Management Symposium (APNOMS-2013), pp.1-5, 25-27 Sep. 2013, Hiroshima, Japan. [link] [ppt] [Nominee for the Best Paper Award]
+* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Efficient and Reliable MAC for Vehicular Ad Hoc Networks", 15th Asia-Pacific Network Operations and Management Symposium (APNOMS-2013), pp.1-5, 25-27 Sep. 2013, Hiroshima, Japan. [ppt] [Nominee for the Best Paper Award]
 
 * Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Enhanced Multi-channel MAC for Vehicular Ad Hoc Networks", IEEE Wireless Communications and Networking Conference (WCNC-2013), pp.351-355, 7-10 Apr. 2013, Shanghai, China.[link]
 
-* Duc Ngoc Minh Dang, Mui Van Nguyen, Choong Seon Hong, Sungwon Lee and Kwangsue Chung, "An Energy Efficient Multi-channel MAC Protocol for Wireless Ad hoc Networks",  IEEE Global Communications Conference (GLOBECOM-2012), pp.433-438, 3-7 Dec. 2012, Anaheim, California, USA. [link] 
+* Duc Ngoc Minh Dang, Mui Van Nguyen, Choong Seon Hong, Sungwon Lee and Kwangsue Chung, "An Energy Efficient Multi-channel MAC Protocol for Wireless Ad hoc Networks",  IEEE Global Communications Conference (GLOBECOM-2012), pp.433-438, 3-7 Dec. 2012, Anaheim, California, USA. 
 
-* Duc Ngoc Minh Dang, Nguyen Tran Quang, Choong Seon Hong and Jin Pyo Hong, "An Enhanced Multi-channel MAC Protocol for Wireless Ad hoc Networks", 14th Asia-Pacific Network Operations and Management Symposium (APNOMS-2012), pp.1-4, 25-27 Sep. 2012, Seoul, Korea. [link]
+* Duc Ngoc Minh Dang, Nguyen Tran Quang, Choong Seon Hong and Jin Pyo Hong, "An Enhanced Multi-channel MAC Protocol for Wireless Ad hoc Networks", 14th Asia-Pacific Network Operations and Management Symposium (APNOMS-2012), pp.1-4, 25-27 Sep. 2012, Seoul, Korea.
 
-* Duc Ngoc Minh Dang, Choong Seon Hong, "A SINR-based Transmission Power Control for MAC Protocol in Wireless Ad hoc Networks", Fourth International Conference on Communications and Electronics (ICCE-2012), pp.103-107, 1-3 Aug. 2012, Hue, Vietnam. [link]
+* Duc Ngoc Minh Dang, Choong Seon Hong, "A SINR-based Transmission Power Control for MAC Protocol in Wireless Ad hoc Networks", Fourth International Conference on Communications and Electronics (ICCE-2012), pp.103-107, 1-3 Aug. 2012, Hue, Vietnam.
 
-* Duc Ngoc Minh Dang, Choong Seon Hong, "H-MMAC: A Hybrid Multi-channel MAC Protocol for Wireless Ad hoc Networks", IEEE International Conference on Communications (ICC-2012) SaCoNet-III, pp.6489-6493, 10-15 Jun. 2012, Ottawa, Canada. [link]
+* Duc Ngoc Minh Dang, Choong Seon Hong, "H-MMAC: A Hybrid Multi-channel MAC Protocol for Wireless Ad hoc Networks", IEEE International Conference on Communications (ICC-2012) SaCoNet-III, pp.6489-6493, 10-15 Jun. 2012, Ottawa, Canada.
 
 * Dang Ngoc Minh Duc, Dang Ngoc Hanh, "Receiver Based Multi-Channel MAC Protocol for Ad hoc Network", International Symposium on Electrical – Electronics Engineering 2011, Ton Duc Thang University, HCMC, Jun. 2011. [pdf]
 

@@ -30,17 +30,20 @@ Research Experience
 ============
 * Sep 2024 -- Present: Full-time Researcher, Networking Intelligence Laboratory, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
 * Aug 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.
+
 ***
 
 Education
 ============
 * Sep 2024 -- Present: Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
 * Sep 2019 -- Mar 2023: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
+
 ***
 
 Awards & Grants
 ============
 * Nov 2023: Being awarded the valedictorian of Information Technology at FPT University's Graduation Ceremony.
 * Oct 2023: Best Paper Award, The 14th International Conference on ICT Convergence - ICTC 2023, Jeju Island, Republic of Korea
+
 ***
 
