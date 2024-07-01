@@ -57,7 +57,7 @@ Working Experience
 
 * 2008 - 2011: Ton Duc Thang University, Vietnam <br> Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering <br> Head of Laboratory, Faculty of Electrical and Electronics Engineering
 
-* 2005 - 2008: 	TMA Solutions Company, Vietnam <br> Senior Telecom Engineer -Team Leader, Japanese customer Project
+* 2005 - 2008: TMA Solutions Company, Vietnam <br> Senior Telecom Engineer - Team Leader, Japanese customer Project
 
 
 ***
@@ -65,9 +65,13 @@ Working Experience
 Awards & Grants
 ============
 * DAAD Surplace scholarship 2006.
+
 * Gold medal award of Ho Chi Minh City University of Technology for Excellent Student in 2005.
+
 * Scholarship award of SAMSUNG VINA Electronics Company.
+
 * Scholarship award of the Vietnamese Government for Excellent Student.
+
 * Second prize award in Physics Competition in Ho Chi Minh City in 2000.
 
 ***
@@ -115,24 +119,24 @@ Journal Publications
 
 ***
 
-International conference
+Conference Proceedings
 ============
 
-* Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024.
 
-* Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le and Duc Ngoc Minh Dang, “Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le and Duc Ngoc Minh Dang, “Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024.
 
-* Dinh Thuan Nguyen, Minh Khanh Phan, Phuong-Nam Tran and Duc Ngoc Minh Dang, “Vietnamese Traffic Sign Recognition Using Deep Learning”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Dinh Thuan Nguyen, Minh Khanh Phan, Phuong-Nam Tran and Duc Ngoc Minh Dang, “Vietnamese Traffic Sign Recognition Using Deep Learning”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024.
 
-* Chi Hung Le, Hung Phat Ly, Duc Tien Nguyen, Hanh Dang-Ngoc, Thuy-Duong Thi Vu and Duc Ngoc Minh Dang, “Deep Learning Based Attendance Check System At FPT University”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Chi Hung Le, Hung Phat Ly, Duc Tien Nguyen, Hanh Dang-Ngoc, Thuy-Duong Thi Vu and Duc Ngoc Minh Dang, “Deep Learning Based Attendance Check System At FPT University”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024.
 
-* Triet Minh Huynh, Duy Linh Nguyen, Thanh Tri Nguyen, Thuy-Duong Thi Vu, Hanh Dang-Ngoc and Duc Ngoc Minh Dang, “CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024 
+* Triet Minh Huynh, Duy Linh Nguyen, Thanh Tri Nguyen, Thuy-Duong Thi Vu, Hanh Dang-Ngoc and Duc Ngoc Minh Dang, “CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024.
 
-* Binh Dang Hai, Huu Duc Nguyen, Thanh Nam Vo, Phuong-Nam Tran, Cuong Tuan Nguyen and Duc Ngoc Minh Dang, “Performance Comparison in Traffic Sign Recognition using Deep Learning”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024
+* Binh Dang Hai, Huu Duc Nguyen, Thanh Nam Vo, Phuong-Nam Tran, Cuong Tuan Nguyen and Duc Ngoc Minh Dang, “Performance Comparison in Traffic Sign Recognition using Deep Learning”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024.
 
-* Quan Bao Le, Kiet Tuan Trinh, Nguyen Dinh Hung Son, Phuong-Nam Tran, Cuong Tuan Nguyen, and Duc Ngoc Minh Dang, “MERSA: Multimodal Emotion Recognition with Self-Align Embedding”, The 38th International Conference on Information Networking (ICOIN 2024), January 17-19, 2024
+* Quan Bao Le, Kiet Tuan Trinh, Nguyen Dinh Hung Son, Phuong-Nam Tran, Cuong Tuan Nguyen, and Duc Ngoc Minh Dang, “MERSA: Multimodal Emotion Recognition with Self-Align Embedding”, The 38th International Conference on Information Networking (ICOIN 2024), January 17-19, 2024.
 
-* Nhat Truong Pham, Le Thi Phan, Duc Ngoc Minh Dang, and Balachandran Manavalan, “SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion”, The 12th International Symposium on Information and Communication Technology (SoICT 2023), Ho Chi Minh City, Vietnam, Dec 7-8, 2023
+* Nhat Truong Pham, Le Thi Phan, Duc Ngoc Minh Dang, and Balachandran Manavalan, “SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion”, The 12th International Symposium on Information and Communication Technology (SoICT 2023), Ho Chi Minh City, Vietnam, Dec 7-8, 2023.
 
 * Duong Thanh Tran, Hieu-Nguyen Nguyen-Doan, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Duc Ngoc Minh Dang, “Vitexco: Exemplar-based Video Colorization using Vision Transformer”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
@@ -194,17 +198,17 @@ International conference
 
 * VanDung Nguyen, Duc Ngoc Minh Dang, Sungman Jang, Choong Seon Hong, "e-VeMAC: An Enhanced Vehicular MAC Protocol to Mitigate the Exposed Terminal Problem", 16th Asia-Pacific Network Operations and Management Symposium (APNOMS-2014), Taiwan, 17-19 Sep. 2014.
 
-* Duc Ngoc Minh Dang, Hanh Ngoc Dang, VanDung Nguyen, Zaw Htike and Choong Seon Hong, "HER-MAC: A Hybrid Efficient and Reliable MAC for Vehicular Ad hoc Networks", 28th IEEE International Conference on Advanced Information Networking and Applications (AINA-2014), pp 186 - 193, Victoria, Canada, 13-16 May. 2014. [acceptance rate = 27%]. [ppt]
+* Duc Ngoc Minh Dang, Hanh Ngoc Dang, VanDung Nguyen, Zaw Htike and Choong Seon Hong, "HER-MAC: A Hybrid Efficient and Reliable MAC for Vehicular Ad hoc Networks", 28th IEEE International Conference on Advanced Information Networking and Applications (AINA-2014), pp 186 - 193, Victoria, Canada, 13-16 May. 2014. [acceptance rate = 27%]. 
 
 * Cuong Do The, Duc Ngoc Minh Dang, Tuan Le Anh, Nguyen Tran Hoang, Rim Haw and Choong Seon Hong, "Power Control under QoS and Interference Constraint in Femtocell Cognitive Networks", International Conference on Information Networking (ICOIN 2014), Phuket, Thailand, 10-12 Feb. 2014.
 
-* Duc Ngoc Minh Dang, Phuong Luu Vo, Chi Kwang Hwang and Choong Seon Hong, "Mitigating starvation in Wireless Ad hoc Networks: Multi-channel MAC and Power Control", 8th International Conference on Ubiquitous Information Management and Communication (IMCOM-2014), Siem Riep, Cambodia, 9-12 Jan. 2014. [ppt] [Nominee for the Best Paper Award]
+* Duc Ngoc Minh Dang, Phuong Luu Vo, Chi Kwang Hwang and Choong Seon Hong, "Mitigating starvation in Wireless Ad hoc Networks: Multi-channel MAC and Power Control", 8th International Conference on Ubiquitous Information Management and Communication (IMCOM-2014), Siem Riep, Cambodia, 9-12 Jan. 2014. [Nominee for the Best Paper Award]
 
 * Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "Performance analysis of the IEEE 802.11p under finite traffic conditions", International Conference on Advanced Engineering – Theory and Applications (AETA-2013), pp 191-199, 11-13 Dec. 2013, Ho Chi Minh City, Vietnam.
 
-* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Efficient and Reliable MAC for Vehicular Ad Hoc Networks", 15th Asia-Pacific Network Operations and Management Symposium (APNOMS-2013), pp.1-5, 25-27 Sep. 2013, Hiroshima, Japan. [ppt] [Nominee for the Best Paper Award]
+* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Efficient and Reliable MAC for Vehicular Ad Hoc Networks", 15th Asia-Pacific Network Operations and Management Symposium (APNOMS-2013), pp.1-5, 25-27 Sep. 2013, Hiroshima, Japan. [Nominee for the Best Paper Award]
 
-* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Enhanced Multi-channel MAC for Vehicular Ad Hoc Networks", IEEE Wireless Communications and Networking Conference (WCNC-2013), pp.351-355, 7-10 Apr. 2013, Shanghai, China.[link]
+* Duc Ngoc Minh Dang, Hanh Ngoc Dang, Cuong T. Do and Choong Seon Hong, "An Enhanced Multi-channel MAC for Vehicular Ad Hoc Networks", IEEE Wireless Communications and Networking Conference (WCNC-2013), pp.351-355, 7-10 Apr. 2013, Shanghai, China.
 
 * Duc Ngoc Minh Dang, Mui Van Nguyen, Choong Seon Hong, Sungwon Lee and Kwangsue Chung, "An Energy Efficient Multi-channel MAC Protocol for Wireless Ad hoc Networks",  IEEE Global Communications Conference (GLOBECOM-2012), pp.433-438, 3-7 Dec. 2012, Anaheim, California, USA. 
 
@@ -214,7 +218,7 @@ International conference
 
 * Duc Ngoc Minh Dang, Choong Seon Hong, "H-MMAC: A Hybrid Multi-channel MAC Protocol for Wireless Ad hoc Networks", IEEE International Conference on Communications (ICC-2012) SaCoNet-III, pp.6489-6493, 10-15 Jun. 2012, Ottawa, Canada.
 
-* Dang Ngoc Minh Duc, Dang Ngoc Hanh, "Receiver Based Multi-Channel MAC Protocol for Ad hoc Network", International Symposium on Electrical – Electronics Engineering 2011, Ton Duc Thang University, HCMC, Jun. 2011. [pdf]
+* Dang Ngoc Minh Duc, Dang Ngoc Hanh, "Receiver Based Multi-Channel MAC Protocol for Ad hoc Network", International Symposium on Electrical – Electronics Engineering 2011, Ton Duc Thang University, HCMC, Jun. 2011. 
 
 * Pham Hong Lien, Dang Ngoc Minh Duc, Tran Cong Vinh, "Cải Thiện Chất Lượng Hệ Thống MC-MC-CDMA Bằng Phép Biến Đổi Wavelet Packets", International Symposium on Electrical - Electronics Engineering 2009, Ton Duc Thang University, HCMC, Feb. 2009.
 
@@ -226,14 +230,6 @@ Book Chapters
 ============
 
 * Duc Ngoc Minh Dang, Choong Seon Hong; Multi-channel MAC Protocols and Power Control for Wireless Ad hoc Networks; Wiley Encyclopedia of Electrical and Electronics Engineering, DOI: 10.1002/047134608X.W8305.
-
-***
-
-Conference Proceedings
-============
-
-
-<!-- * Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014 -->
 
 ***
 
