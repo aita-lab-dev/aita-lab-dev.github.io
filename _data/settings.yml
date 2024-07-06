@@ -14,17 +14,14 @@ author:
   name: AiTA@FPTU
   image: 
   #logo_please.png
-  # say-hello: <strong>Network Science Lab</strong>
-  # bio: Network science is a field of study that aims to reveal structural patterns in real-world interaction networks, such as social networks, bibliographic networks, power grids, and others. The Network Science Lab (NS Lab; 네트워크과학연구실), part of the Dept. of AI at CUK, conducts extensive research on a wide range of theories, methodologies, and applications related to collection, representation, and analysis of networked data.
+  say-hello: <strong>AI Technology and Application Research Lab</strong>
+  bio: Welcome to the AI Technology and Application Research Lab, where innovation meets interdisciplinary collaboration. Our researchers work alongside experts in computer science, electrical engineering, mathematics, environmental science, medicine, and more to develop cutting-edge AI solutions aimed at improving human life and tackling societal challenges. We are dedicated to training the next generation of AI researchers and practitioners by providing hands-on research experience, state-of-the-art AI technology training, and professional development opportunities. Our ultimate goal is to push the boundaries of AI and promote the responsible and ethical development and deployment of AI technologies.
   
-  #Network science is a research field about unveiling structural patterns in real-world interaction networks, e.g., social networks, bibliographic networks, power grids, etc. We study a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
-  #Network Science Lab, Dept. of Artificial Intelligence, The Catholic University of Korea studies a broad range of theories, methodologies, and applications related to collecting, representing, and analyzing networked data.
-
 
 #-------------------------------
 # Contact links
 # twitter: https://twitter.com/NS_CUK
-#facebook: https://facebook.com/ # Add your Facebook handle
+facebook: https://www.facebook.com/profile.php?id=61561670231932 # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 # instagram: https://www.instagram.com/ns_cuk/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
@@ -47,7 +44,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+# google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
