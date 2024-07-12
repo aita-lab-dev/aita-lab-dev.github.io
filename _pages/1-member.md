@@ -87,7 +87,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 #### B.Eng.
 
-###### [Nguyen Doan Hieu Nguyen](/member/ndhnguyen) (Jun 2023 -- Dec 2024)
+###### [Nguyen Doan Hieu Nguyen](/member/ndhieunguyen) (Jun 2023 -- Dec 2024)
 
 <table border="0">  
 	<tr valign="top">
