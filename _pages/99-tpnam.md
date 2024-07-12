@@ -2,7 +2,7 @@
 layout: page
 title: "Phuong-Nam Tran, Ph.D.c"
 permalink: /member/tpnam
-image: 
+image: Members/Researchers/tpnam/background.jpg
 description: Curriculum vitae of Phuong-Nam Tran
 ---
 
@@ -50,5 +50,6 @@ Awards & Grants
 Publications
 ============
 * [![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://tpnam0901.github.io/)
+
 ***
 
