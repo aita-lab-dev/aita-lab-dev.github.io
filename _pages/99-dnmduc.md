@@ -2,7 +2,7 @@
 layout: page
 title: "Duc Ngoc Minh Dang, Ph.D."
 permalink: /member/dnmduc
-image: Members/DucDang/DucDang_KHU.jpg
+image: Members/Director/background.jpg
 description: Curriculum vitae of Duc Dang
 ---
 
