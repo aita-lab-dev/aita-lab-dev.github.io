@@ -39,7 +39,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
             <li>Sep 2019 -- Mar 2023: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>
 			<li>Research Interest: Networking for AI, Computer Vision, Multi-modal, Speech Emotion Recognition</li>				
 			<li><a href="https://github.com/tpnam0901"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li>[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://tpnam0901.github.io/)</li> 
+			<li><a href="https://tpnam0901.github.io"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -96,7 +96,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 			<li>Sep 2024 -- Present: Full-time Researcher, Computational Biology and Bioinformatics Laboratory, Dept. of Integrative Biotechnology, Sungkyunkwan University, Suwon-si, Gyeonggi-do, Republic of Korea</li>
             <li>Jun 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.</li>		
 			<li><a href="https://github.com/ndhieunguyen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li> 
 		</ul></td>
 	</tr>
 </table>
