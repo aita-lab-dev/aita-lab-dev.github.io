@@ -54,7 +54,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 ###### [Minh Khanh Phan](https://aita-lab.github.io/member/pmkhanh) (Sep 2023 -- Present)
 
-###### [Thu Thuy Le](https://aita-lab.github.io/member/ltthuy) (Aug 2023 -- Present)
+###### [Thu Thuy Le](/member/ltthuy) (Aug 2023 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/ThuyLe.jpg"/></td>  
