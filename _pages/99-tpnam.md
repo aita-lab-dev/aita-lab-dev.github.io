@@ -2,7 +2,7 @@
 layout: page
 title: "Phuong-Nam Tran, Ph.D.c"
 permalink: /member/tpnam
-image: 
+image: Members/Researchers/tpnam/background.jpg
 description: Curriculum vitae of Phuong-Nam Tran
 ---
 
@@ -16,7 +16,7 @@ description: Curriculum vitae of Phuong-Nam Tran
 [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185035100&logoColor=white) 
 [![semanticscholar](https://img.shields.io/badge/Semantic%20Scholar-336699?style=flat-square&logo=semantic+scholar&logoColor=white)](https://www.semanticscholar.org/author/Phuong-Nam-Tran/2280926816)
 [![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/KIG-2009-2024) 
-[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://namphuongtran9196.github.io/)
+[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://tpnam0901.github.io/)
 
 <br>
 
@@ -44,6 +44,12 @@ Awards & Grants
 ============
 * Nov 2023: Being awarded the valedictorian of Information Technology at FPT University's Graduation Ceremony.
 * Oct 2023: Best Paper Award, The 14th International Conference on ICT Convergence - ICTC 2023, Jeju Island, Republic of Korea
+
+***
+
+Publications
+============
+* [![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://tpnam0901.github.io/)
 
 ***
 
