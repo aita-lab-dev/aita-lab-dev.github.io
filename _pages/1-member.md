@@ -11,7 +11,7 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 # Director
 ***
 
-#### [Duc Ngoc Minh Dang, Ph.D.](https://aita-lab.github.io/member/dnmduc)
+#### [Duc Ngoc Minh Dang, Ph.D.](/member/dnmduc)
 
 <img align="left" src="/images/Members/Director/avatar.jpg" style="width : 150px; height : 150px; margin : 10px">
 
@@ -29,7 +29,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 # Researchers
 ***
 
-###### [Phuong-Nam Tran](https://aita-lab.github.io/member/tpnam) (Jan 2023 -- Present)
+###### [Phuong-Nam Tran](/member/tpnam) (Jan 2023 -- Present)
 
 <table border="0">  
 	<tr valign="top">
@@ -87,7 +87,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 #### B.Eng.
 
-###### [Nguyen Doan Hieu Nguyen](https://aita-lab.github.io/member/ndhnguyen) (Jun 2023 -- Dec 2024)
+###### [Nguyen Doan Hieu Nguyen](/member/ndhnguyen) (Jun 2023 -- Dec 2024)
 
 <table border="0">  
 	<tr valign="top">
