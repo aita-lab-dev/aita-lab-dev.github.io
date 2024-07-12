@@ -13,7 +13,7 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 
 #### [Duc Ngoc Minh Dang, Ph.D.](https://aita-lab.github.io/member/dnmduc)
 
-<img align="left" src="/images/Dr_DucDang.jpg" style="width : 150px; height : 150px; margin : 10px">
+<img align="left" src="/images/Members/DucDang/Dr_DucDang.jpg" style="width : 150px; height : 150px; margin : 10px">
 
 Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2005 and 2007, respectively. In 2014, he received a Ph.D. degree in Computer Engineering at Kyung Hee University, Korea. From 2005 to 2008, he was a Senior Telecom Engineer with TMA Solutions, Vietnam. From 2008 to 2022, he worked as the Head of the Electronics and Telecommunications Department and Vice Dean of the School of Graduate Studies at Ton Duc Thang University, Vietnam. Since 2022, he has worked as a Lecturer and Researcher at FPT University in Ho Chi Minh City, Vietnam. His research interests include the MAC protocols in Wireless Ad hoc Networks, Vehicular Ad hoc Networks, Deep Learning, and the Internet of Things.
 
@@ -67,7 +67,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="150px" margin="10px" src="https://aita-lab.github.io/images/NamTran.jpg"/></td>  
+		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/NamTran/NamTran.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2024 -- Present: Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
             <li>Sep 2019 -- Mar 2023: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>

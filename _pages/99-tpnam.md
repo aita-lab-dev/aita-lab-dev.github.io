@@ -2,7 +2,7 @@
 layout: page
 title: "Phuong-Nam Tran, Ph.D.c"
 permalink: /member/tpnam
-image: 
+image: Members/NamTran/NamTran.jpg
 description: Curriculum vitae of Phuong-Nam Tran
 ---
 
