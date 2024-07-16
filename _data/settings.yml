@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: AI Technology and Application Research Lab @ FPTU - HCMC
-logo: AiTA_logo.jpg
+logo: FPTU/AiTA_logo.jpg
 #LabLogo.png
 description: Official website of the AI Technology and Application Research Lab at the FPT University (AiTA Lab@FPTU)
 author: AiTA@FPTU
@@ -12,7 +12,9 @@ publisher: AiTA@FPTU
 # Author Settings
 author:
   name: AiTA@FPTU
-  image: 
+  image1: FPTU/background1.jpg 
+  image2: FPTU/background2.jpg 
+  image3: FPTU/background3.jpg 
   #logo_please.png
   say-hello: <strong>AI Technology and Application Research Lab</strong>
   bio: Welcome to the AI Technology and Application Research Lab, where innovation meets interdisciplinary collaboration. Our researchers work alongside experts in computer science, electrical engineering, mathematics, environmental science, medicine, and more to develop cutting-edge AI solutions aimed at improving human life and tackling societal challenges. We are dedicated to training the next generation of AI researchers and practitioners by providing hands-on research experience, state-of-the-art AI technology training, and professional development opportunities. Our ultimate goal is to push the boundaries of AI and promote the responsible and ethical development and deployment of AI technologies.

@@ -103,8 +103,17 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 ###### [Thanh Duong Tran](https://aita-lab.github.io/member/ttduong) (Jun 2023 -- Dec 2023)
 
-###### [Trung Thanh Pham](https://aita-lab.github.io/member/pttrung) (Jun 2023 -- Dec 2023)
+###### [Trung Thanh Pham](/member/pttrung) (Jun 2023 -- Dec 2023)
 
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/pttrung/avatar.jpg"/></td>  
+		<td><ul>
+            <li>Aug 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.</li>		
+			<li><a href="https://github.com/KevinRoller"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+		</ul></td>
+	</tr>
+</table>
 ***
 # Collaborators
 ***
