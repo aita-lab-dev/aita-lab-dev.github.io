@@ -33,6 +33,13 @@ Research Experience
 
 ***
 
+Work Experience
+============
+* Dec 2021 -- Jun 2023: Part-time Researcher at Pythera AI, Ho Chi Minh City, Vietnam.
+* Aug 2021 -- Oct 2023: Full-time AI Engineering at K&G Technology, Ho Chi Minh City, Vietnam
+
+***
+
 Education
 ============
 * Sep 2024 -- Present: Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
