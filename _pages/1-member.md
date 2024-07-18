@@ -101,7 +101,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### [Thanh Duong Tran](https://aita-lab.github.io/member/ttduong) (Jun 2023 -- Dec 2023)
+###### [Thanh Duong Tran](/member/ttduong) (Jun 2023 -- Dec 2023)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ttduong/avatar.jpg"/></td>  
