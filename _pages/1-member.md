@@ -57,10 +57,11 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 ###### [Thu Thuy Le](/member/ltthuy) (Aug 2023 -- Present)
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://aita-lab.github.io/images/ThuyLe.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ltthuy/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
-			<li>Research Interest: Segmentation</li>			
+			<li>Research Interest: Federated Learning, Image Segmentation</li>			
+            <li><a href="https://shuilee.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
