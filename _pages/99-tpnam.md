@@ -42,7 +42,7 @@ Work Experience
 
 Education
 ============
-* Sep 2024 -- Present: Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
+* Sep 2024 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
 * Sep 2019 -- Mar 2023: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
 
 ***

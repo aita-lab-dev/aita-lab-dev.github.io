@@ -35,7 +35,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/tpnam/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
             <li>Sep 2019 -- Mar 2023: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>
 			<li>Research Interest: Networking for AI, Computer Vision, Multi-modal, Speech Emotion Recognition</li>				
 			<li><a href="https://github.com/tpnam0901"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
@@ -93,8 +93,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ndhieunguyen/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Full-time Researcher, Computational Biology and Bioinformatics Laboratory, Dept. of Integrative Biotechnology, Sungkyunkwan University, Suwon-si, Gyeonggi-do, Republic of Korea</li>
-            <li>Jun 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.</li>		
+			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Integrative Biotechnology, Sungkyunkwan University, Suwon-si, Gyeonggi-do, Republic of Korea</li>
+            <li>Sep 2020 -- Apr 2024: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>		
 			<li><a href="https://github.com/ndhieunguyen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://ndhieunguyen.github.io"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
@@ -106,8 +106,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ttduong/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Full-time Researcher, [Computational Biology and Bioinformatics Laboratory](https://balalab-skku.org/), Dept. of Integrative Biotechnology, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea.</li>
-            <li>Jun 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.</li>		
+			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Integrative Biotechnology, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea.</li>
+            <li>Sep 2020 -- Apr 2024: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>		
 			<li><a href="https://duongttr.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -119,7 +119,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/pttrung/avatar.jpg"/></td>  
 		<td><ul>
-            <li>Aug 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.</li>		
+            <li>Sep 2020 -- Apr 2024: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>		
 			<li><a href="https://github.com/KevinRoller"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
