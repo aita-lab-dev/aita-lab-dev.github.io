@@ -35,7 +35,7 @@ Research Experience
 Education
 ============
 * Sep 2024 -- Present: Master & Ph.D program, Dept. of Integrative Biotechnology, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea.
-* Sep 2020 -- Apr 2024: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
+* Sep 2020 -- Apr 2024: B.Sc degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
 
 ***
 

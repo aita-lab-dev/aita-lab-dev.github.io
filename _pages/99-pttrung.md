@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Trung Thanh Pham, BSc"
+title: "Trung Thanh Pham, B.Sc"
 permalink: /member/pttrung
 image:
 description: Curriculum vitae of Trung Thanh Pham
@@ -30,7 +30,7 @@ Research Experience
 
 Education
 ============
-* Sep 2020 -- Apr 2024: B.Eng degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
+* Sep 2020 -- Apr 2024: B.Sc degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
 
 ***
 
