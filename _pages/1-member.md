@@ -48,31 +48,49 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 # Undergraduate Research Assistants
 ***
 
-###### [Hai Nam Van Phan](https://aita-lab.github.io/member/pvhnam) (Sep 2023 -- Present)
+###### [Hai Nam Van Phan](/member/pvhnam) (Sep 2023 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pvhnam/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc.c, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>			
+            <li><a href="https://orcid.org/0009-0008-2588-5235"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
-###### [Trung Minh Nguyen](https://aita-lab.github.io/member/nmtrung) (Sep 2023 -- Present)
+###### [Trung Minh Nguyen](/member/nmtrung) (Sep 2023 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Sep 2023 -- Present: Student and Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.</li>			
+            <li><a href="https://nmihtrug.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
-###### [Minh Khanh Phan](https://aita-lab.github.io/member/pmkhanh) (Sep 2023 -- Present)
+###### [Minh Khanh Phan](/member/pmkhanh) (Sep 2023 -- Present)
 
-###### [Thu Thuy Le](/member/ltthuy) (Aug 2023 -- Present)
+###### [Thu Thuy Le](/member/ltthuy) (Sep 2023 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ltthuy/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc., Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Dec 2022 -- Present: B.Sc.c, Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li>Research Interest: Federated Learning, Image Segmentation</li>			
             <li><a href="https://shuilee.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### [Nhut Minh Nguyen](https://aita-lab.github.io/member/nmnhut) (Apr 2024 -- Present)
+###### [Nhut Minh Nguyen](/member/nmnhut) (Apr 2024 -- Present)
 
-###### [Thanh Trung Nguyen](https://aita-lab.github.io/member/nttrung) (Apr 2024 -- Present)
+###### [Thanh Trung Nguyen](/member/nttrung) (Apr 2024 -- Present)
 
-###### [Hua Hiep Nguyen](https://aita-lab.github.io/member/nhhiep) (Apr 2024 -- Present)
+###### [Hua Hiep Nguyen](/member/nhhiep) (Apr 2024 -- Present)
 
-###### [Duc Tai Phan](https://aita-lab.github.io/member/pdtai) (Apr 2024-- Present)
+###### [Duc Tai Phan](/member/pdtai) (Apr 2024-- Present)
 
 ***
 # Alumni
