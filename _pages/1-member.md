@@ -36,6 +36,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/tpnam/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
+			<li>Dec 2021 -- Jun 2023: Part-time Researcher at Pythera AI, Ho Chi Minh City, Vietnam.</li>
+			<li>Aug 2021 -- Oct 2023: Full-time AI Engineering at K&G Technology, Ho Chi Minh City, Vietnam.</li>
             <li>Sep 2019 -- Mar 2023: B.Sc degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.</li>
 			<li>Research Interest: Networking for AI, Computer Vision, Multi-modal, Speech Emotion Recognition</li>				
 			<li><a href="https://github.com/tpnam0901"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
